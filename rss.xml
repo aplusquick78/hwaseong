@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>화성 퀵서비스 | 8222퀵</title>
+    <link>http://hwaseong.8222quick.com/</link>
+    <description>화성 전지역 24시 퀵서비스, 오토바이퀵·다마스·라보 긴급배송 전문</description>
+    <language>ko</language>
+    <lastBuildDate>Sat, 22 Feb 2026 15:20:00 +0900</lastBuildDate>
+    <pubDate>Sat, 22 Feb 2026 15:20:00 +0900</pubDate>
+    <ttl>60</ttl>
+
+    <item>
+      <title>화성 퀵서비스 24시간 빠른 배차</title>
+      <link>http://hwaseong.8222quick.com/</link>
+      <description><![CDATA[
+        화성 전지역 당일배송, 긴급서류, 기업물류 전문.
+        오토바이퀵, 다마스퀵, 라보퀵 상시 대기.
+      ]]></description>
+      <pubDate>Sat, 22 Feb 2026 15:20:00 +0900</pubDate>
+      <guid>http://hwaseong.8222quick.com/#main</guid>
+    </item>
+
+    <item>
+      <title>화성 다마스퀵·라보퀵 중량 화물 운송</title>
+      <link>http://hwaseong.8222quick.com/</link>
+      <description><![CDATA[
+        공장·산업단지 납품, 박스 다량 배송 전문.
+        신속·정확한 운송 서비스 제공.
+      ]]></description>
+      <pubDate>Sat, 22 Feb 2026 14:50:00 +0900</pubDate>
+      <guid>http://hwaseong.8222quick.com/#cargo</guid>
+    </item>
+
+    <item>
+      <title>화성 기업 정기배송·계약 물류 상담</title>
+      <link>http://hwaseong.8222quick.com/</link>
+      <description><![CDATA[
+        기업체, 병원, 약국, 공장 정기배송 계약 가능.
+        24시 대응, 합리적인 요금 안내.
+      ]]></description>
+      <pubDate>Sat, 22 Feb 2026 14:00:00 +0900</pubDate>
+      <guid>http://hwaseong.8222quick.com/#business</guid>
+    </item>
+
+  </channel>
+</rss>
